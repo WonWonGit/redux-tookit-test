@@ -1,0 +1,49 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "todo": "redux toolkit",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 2,
+      "todo": "test",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 3,
+      "todo": "test2",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 4,
+      "todo": "test3",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 5,
+      "todo": "test4",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 6,
+      "todo": "test5",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 7,
+      "todo": "test6",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 8,
+      "todo": "test7",
+      "todoStatus": "INCOMPELETED"
+    },
+    {
+      "id": 9,
+      "todo": "test8",
+      "todoStatus": "INCOMPELETED"
+    }
+  ]
+}
